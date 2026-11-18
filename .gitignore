@@ -1,0 +1,7 @@
+*.o
+*.out
+*.exe
+steganography
+.DS_Store
+Thumbs.db
+*.tmp
